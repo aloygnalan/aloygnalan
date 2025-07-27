@@ -6,13 +6,16 @@
 
 ---
 
-## 🧠 About Me  
+### 🧠 About Me  
 
 💡 Cybersecurity Engineering Student  
+
 👨‍💻 Python Developer  
+
 💻 Linux Enthusiast  
-🛡️ Blue Team Practitioner  
-&emsp;&emsp;&emsp;— *Wireshark • Nmap • Metasploit*
+
+🛡️ Blue Team & Network Defense  
+
 
 ---
 
