@@ -1,6 +1,6 @@
-<!-- Typing SVG Heading -->
+<!-- Typing SVG Heading with Your Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=480&lines=Exploring+Cyber+Realms+with+Code+%26+Curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=480&lines=Hey+there%2C+I'm+Aloy+Gnalan+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <!-- Sub-heading -->
@@ -10,10 +10,10 @@
 
 ---
 
-<!-- Side-by-side About Me & Tech Stack using responsive table layout -->
-<table width="100%" style="border: none;">
+<!-- Side-by-side About Me & Tech Stack using table layout -->
+<table width="100%" style="border: none; table-layout: fixed;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="48%" style="padding-right: 2%;">
 
 ### 🧠 About Me
 
@@ -23,7 +23,7 @@
 - 🛡️ Blue Team & Network Defense  
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="48%" style="padding-left: 2%;">
 
 ### ⚙️ Tech Stack
 
@@ -50,6 +50,9 @@
   </a>
   <a href="https://discordapp.com/users/aloy_gnalan">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:gnalanaloy2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
