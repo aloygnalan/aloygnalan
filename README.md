@@ -10,20 +10,20 @@
 
 ---
 
-<!-- Side-by-side About Me & Tech Stack using responsive table layout -->
-<table width="100%" style="border: none;">
+<!-- Side-by-side About Me & Tech Stack using table with proper spacing -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="padding-right: 10px;">
 
 ### 🧠 About Me
 
 - 🎓 Cybersecurity Engineering Student
-- 👨‍💻 Python Developer
+- 👨‍💻 Python Developer  
 - 💻 Linux Enthusiast
 - 🛡️ Blue Team & Network Defense
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="padding-left: 10px;">
 
 ### ⚙️ Tech Stack
 
@@ -44,13 +44,13 @@
 <p align="center">
   <a href="https://github.com/aloygnalan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/aloygnalan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/aloy_gnalan">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:gnalanaloy2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -62,8 +62,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloygnalan&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloygnalan&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aloygnalan&show_icons=true&theme=github_dark&hide_border=true" width="48%" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloygnalan&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
