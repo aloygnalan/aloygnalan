@@ -10,11 +10,12 @@
 
 ---
 
-<!-- Side-by-side About Me & Tech Stack using table layout -->
-<table width="100%" style="border: none; table-layout: fixed;">
-  <tr>
-    <td valign="top" width="48%" style="padding-right: 2%;">
-
+<!-- Side-by-side About Me & Tech Stack using Flexbox -->
+<div align="center">
+  <table style="width: 90%;">
+    <tr>
+      <td valign="top" width="50%">
+        
 ### 🧠 About Me
 
 - 🎓 Cybersecurity Engineering Student  
@@ -22,19 +23,21 @@
 - 💻 Linux Enthusiast  
 - 🛡️ Blue Team & Network Defense  
 
-</td>
-<td valign="top" width="48%" style="padding-left: 2%;">
+      </td>
+      <td valign="top" width="50%">
 
 ### ⚙️ Tech Stack
 
 - **Languages:** Python, Bash  
-- **Tools:** Git, VS Code  
+- **Tools:** Git, VS Code, Wireshark  
 - **Operating Systems:** Arch, Kali Linux, Windows  
 - **Domains:** Cybersecurity, Networking  
 
-</td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
