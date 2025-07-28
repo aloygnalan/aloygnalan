@@ -12,8 +12,7 @@
 
 <!-- About Me & Tech Stack sections -->
 
-<p align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>🧠 About Me</h3>
@@ -35,7 +34,6 @@
 </td>
 </tr>
 </table>
-</p>
 
 <!-- Connect With Me Section -->
 
