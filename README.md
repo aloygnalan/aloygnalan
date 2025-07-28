@@ -10,11 +10,10 @@
 <em>Cybersecurity Enthusiast · Python Developer · Linux Explorer</em>
 </p>
 
-<!-- About Me & Tech Stack sections -->
+<!-- About Me & Tech Stack sections - Using divs for better control over spacing -->
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: left;">
+<div style="flex: 1; min-width: 280px; max-width: 48%;">
 <h3>🧠 About Me</h3>
 <ul>
 <li>🎓 Cybersecurity Engineering Student</li>
@@ -22,8 +21,8 @@
 <li>💻 Linux Enthusiast</li>
 <li>🛡️ Blue Team & Network Defense</li>
 </ul>
-</td>
-<td width="50%" valign="top">
+</div>
+<div style="flex: 1; min-width: 280px; max-width: 48%;">
 <h3>⚙️ Tech Stack</h3>
 <ul>
 <li><strong>Languages:</strong> Python, Bash</li>
@@ -31,9 +30,8 @@
 <li><strong>Operating Systems:</strong> Arch, Kali Linux, Windows</li>
 <li><strong>Domains:</strong> Cybersecurity, Networking</li>
 </ul>
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <!-- Connect With Me Section -->
 
