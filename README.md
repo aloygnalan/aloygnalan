@@ -72,9 +72,3 @@
 </p>
 
 ---
-
-### 🚀 Highlight Project (Wazuh + n8n + VirusTotal)
-
-<p align="center">
-  <a href="https://github.com/aloygnalan/Wazuh-n8n-VirusTotal-Automation">
-    <img src="https://img.shields.io/badge/Wazuh→n8n→VirusTotal_Automation-0A84FF?style=for-the-badge&logo=github&logoColor=_
